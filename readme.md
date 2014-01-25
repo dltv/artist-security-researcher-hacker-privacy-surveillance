@@ -11,6 +11,7 @@ This is a Repository to to gather writings and information about artist/security
 *	Social Hacking 
 *	Techno Shamanistic Practices
 *	Encryption 
+*	Freeking 
 	
   
 
