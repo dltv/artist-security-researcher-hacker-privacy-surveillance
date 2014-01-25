@@ -5,11 +5,11 @@ This is a Repository to to gather writings and information about artist/security
 
 ###Possible Topics 
 
-* Some Topics to include
-	Surveillance 
-	Code
-	Social Hacking 
-	Techno Shamanistic Practices
+
+*       Surveillance 
+*	Code
+*	Social Hacking 
+*	Techno Shamanistic Practices
 	
   
 
