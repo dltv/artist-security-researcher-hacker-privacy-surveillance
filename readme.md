@@ -1,10 +1,7 @@
 README
 ======================================
 
-* 
-###Important links
-
-* This is a repo to gather writings and information about artist/security researcher/hacker writings (including code?) about privacy/surveillance
+*This is a Repository to to gather writings and information about artist/security researcher/hacker writings (including code?) about privacy/surveillance
 
 ###Possible Topics 
 
